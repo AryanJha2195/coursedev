@@ -1,5 +1,4 @@
 import React from 'react';
-import CourseCard from './CourseCard.jsx';
 import coursesData from '../data/data.json'; 
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
