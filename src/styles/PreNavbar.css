@@ -1,0 +1,71 @@
+/* .prenav{
+    display: flex;
+}
+
+.prenav>div>img{
+    height: 6rem;
+    padding: 0.1rem;
+    cursor: pointer;
+}
+
+.prenav>div>span{
+    position: absolute;
+    margin: 1.75rem 0;
+    cursor: pointer;
+}
+
+.searchbox {
+    display: flex;
+    position: relative;
+    left: 3vmax;
+    height: fit-content;
+    margin: 0.75rem 0;
+    padding: 0 0rem;
+}
+
+.searchbox>input {
+    border-radius: 44px;
+    border: 1px solid black;
+    width: 27rem;
+    height: 3rem;
+    text-align: center;
+}
+
+.searchbox>svg {
+    position: relative;
+    left: 3rem;
+    top: 0.2rem;
+    height: 3rem;
+    fill: rgb(176 176 176);
+}
+
+.prenav_topics{
+    display: flex;
+    margin: 1.5rem 0 0 5rem;
+    cursor: pointer;
+}
+
+.prenav_topics>svg{
+    position: relative;
+    height: 3rem;
+    top: -3vh;
+    cursor: pointer;
+}
+
+.prenav_topics>div{
+    margin: 0 1rem;
+    height: 1rem;
+} */
+
+/* .prenav_register{
+    display: flex;
+    gap: 2rem;
+    margin: 1.35rem 0 0 1rem;
+    cursor: pointer;
+}
+
+.prenav_register>div>span{
+    border: 2px solid black;
+    padding: 1vh;
+}*/
+
